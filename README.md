@@ -55,9 +55,6 @@ To run this program, you need to have the following dependencies installed:
 
 - Adjustments to the GUI layout, button styles, or other elements can be made in the code based on your preferences.
 
-## License
-
-This program is released under the [MIT License](LICENSE). Feel free to modify and distribute it according to your needs.
 
 ## Acknowledgments
 
